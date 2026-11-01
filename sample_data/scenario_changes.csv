@@ -1,0 +1,4 @@
+action,source,destination,weight
+add,https://www.example-shop.com/,https://www.example-shop.com/shop/accessories/,1
+add,https://www.example-shop.com/shop/new-arrivals/,https://www.example-shop.com/shop/accessories/,1
+add,https://www.example-shop.com/shop/bags/,https://www.example-shop.com/shop/accessories/,1

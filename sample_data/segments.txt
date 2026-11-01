@@ -1,0 +1,3 @@
+Products=^/products/|^/shop/[^/]+/[^/]+$
+Categories=^/(shoes|bags|accessories)/$|^/shop/[^/]+/$
+Blog and resources=^/(blog|resources)/
